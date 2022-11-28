@@ -1,0 +1,33 @@
+#title{
+  color:#fbd743;
+  background-color:#5db9ff;
+}
+.container-fluid{
+  padding:3% 15%;
+}
+h1{
+  font-family: 'Cormorant Upright', serif;
+  font-family: 'Montserrat', sans-serif;
+  font-size:3rem;
+  line-height:1.5;
+}
+.master{
+  font-family: 'Cormorant Upright', serif;
+  font-family: 'Montserrat', sans-serif;
+  font-size:3rem;
+  line-height:1.5;
+}
+.navbar{
+  background-color:#ff1f1f;
+  color:#fff;
+}
+.navbar-brand{
+    color:#363b81;
+    font-size:2rem;
+}
+.nav-item{
+  padding:0 18px;
+}
+.nav-link{
+  color:#fff;
+}
